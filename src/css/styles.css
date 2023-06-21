@@ -33,6 +33,7 @@ h1 {
   background-color: #6bd7f8;
   border-radius: 12px;
   padding: 1rem;
+  cursor: pointer;
   transition: transform 0.3s, box-shadow 0.3s;
   transform-style: preserve-3d;
 }
